@@ -1,2 +1,2 @@
 # goit-markup-hw-01
-Howe work 01  for go IT
+Home work 01  for go IT
